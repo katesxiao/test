@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test git quick start demo new content for master branch
+=======
+test git quick start demo dummy text
+>>>>>>> realwork
