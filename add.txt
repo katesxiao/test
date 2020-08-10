@@ -1,2 +1,4 @@
 Content after rebasing
 add on remote github repo
+Modification in stashing section
+New modification in stashing section again
